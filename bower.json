@@ -1,0 +1,15 @@
+{
+  "name": "css-oss-template",
+  "ignore": [
+    ".gitignore",
+    ".scss-lint.yml",
+    ".csscomb.json",
+    ".editorconfig",
+    "CONTRIBUTING.md",
+    "README.md"
+  ],
+  "main": [
+  ],
+  "dependencies": {
+  }
+}

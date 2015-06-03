@@ -1,0 +1,25 @@
+{
+  "name": "css-oss-template",
+  "version": "0.0.1",
+  "description": "CSS open source project template",
+  "license": "MIT",
+  "repository": "jonrohan/css-oss-template",
+  "author": {
+    "name": "Jon Rohan",
+    "email": "yes@jonrohan.codes",
+    "url": "http://jonrohan.codes/"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+  },
+  "files": [
+  ],
+  "keywords": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
