@@ -1,5 +1,7 @@
 # CSS Open source software template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jonrohan/css-oss-template.svg)](https://greenkeeper.io/)
+
 This is the basic config you'll need if you're starting an open source CSS/SCSS/LESS project. Suggestions welcome read over the [contributing](/CONTRIBUTING.md) guidelines.
 
 ## Install
